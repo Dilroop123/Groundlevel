@@ -14,7 +14,8 @@ const Post = ({ask}) => {
         borderWidth: 1,
         padding: SCREEN_HEIGHT * 0.02,
         borderColor: color.lightGrey,
-        borderRadius: SCREEN_HEIGHT * 0.02,
+        borderTopRightRadius: SCREEN_HEIGHT * 0.02,
+        borderTopLeftRadius: SCREEN_HEIGHT * 0.02,
         marginTop: SCREEN_HEIGHT * 0.02,
         backgroundColor: color.lightBlue,
       }}>
