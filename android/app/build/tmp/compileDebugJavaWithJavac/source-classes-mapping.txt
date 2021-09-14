@@ -1,0 +1,14 @@
+com/groundlevel/MainActivity.java
+ com.groundlevel.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/groundlevel/ReactNativeFlipper.java
+ com.groundlevel.ReactNativeFlipper
+ com.groundlevel.ReactNativeFlipper$1
+ com.groundlevel.ReactNativeFlipper$2
+ com.groundlevel.ReactNativeFlipper$2$1
+com/groundlevel/BuildConfig.java
+ com.groundlevel.BuildConfig
+com/groundlevel/MainApplication.java
+ com.groundlevel.MainApplication
+ com.groundlevel.MainApplication$1
